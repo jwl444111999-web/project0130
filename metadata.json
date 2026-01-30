@@ -1,0 +1,5 @@
+{
+  "name": "ExplodeMiner & Ledger",
+  "description": "A unique gaming and personal finance management tool. Play a reverse minesweeper challenge to hit the top rank and track your daily finances with beautiful charts, all powered by Supabase.",
+  "requestFramePermissions": []
+}
